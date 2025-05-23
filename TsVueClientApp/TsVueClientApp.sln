@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "tsvueclientapp", "TsVueClientApp\tsvueclientapp.esproj", "{C0C8B37E-E9ED-49C0-B2D2-37237CCE4DEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0C8B37E-E9ED-49C0-B2D2-37237CCE4DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C8B37E-E9ED-49C0-B2D2-37237CCE4DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C8B37E-E9ED-49C0-B2D2-37237CCE4DEA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C0C8B37E-E9ED-49C0-B2D2-37237CCE4DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C8B37E-E9ED-49C0-B2D2-37237CCE4DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C8B37E-E9ED-49C0-B2D2-37237CCE4DEA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {854AD6C3-F96E-4AB2-8B68-DB45FF9F2DBE}
+	EndGlobalSection
+EndGlobal
