@@ -2,11 +2,11 @@
 
 1. cd至docker-compose.yaml檔案路徑
 2. 停止docker compose内的服務
-      docker compose down
+   - docker compose down
 3. 執行docker compose，建置image，運行容器 ， -d表示在背景執行
-      docker compose up --build -d
-   執行docker compose，運行容器（不建置image）
-      docker compose up -d
+   - docker compose up --build -d
+	**執行docker compose，運行容器（不建置image）
+	- docker compose up -d
 
 
 
